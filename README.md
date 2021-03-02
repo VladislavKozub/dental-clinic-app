@@ -1,0 +1,1 @@
+Dental clinic management webapp - patients and appointments in particular (uses Spring Framework)
